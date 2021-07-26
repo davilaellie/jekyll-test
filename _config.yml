@@ -38,16 +38,20 @@ search:
   button: false
 
 collections:
-  eir:
+  docs:
+    eir:
+    eml:
 
+collections_dir: _docs
 # Default layout for each collection type
-defaults:
-  - scope:
-      path: ''
-      type: eir
-    values:
-      layout: default
       
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
 
 
 plugins:

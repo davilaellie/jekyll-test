@@ -12,3 +12,10 @@ _site
 .sass-cache
 .jekyll-metadata
 vendor
+Gemfile.lock
+node_modules/
+vendor/
+*.gem
+.bundle/
+
+_config_local.yml
