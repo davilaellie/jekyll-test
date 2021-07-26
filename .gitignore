@@ -4,3 +4,11 @@
 
 # Have to add the "_site" folder to gitignore to not show up on github #
 _site
+
+.vs
+
+.jekyll-cache
+
+.sass-cache
+.jekyll-metadata
+vendor
