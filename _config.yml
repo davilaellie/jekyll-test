@@ -1,3 +1,5 @@
 baseurl: /jekyll-test
 exclude: ['README.md']
 remote_theme: pmarsceill/just-the-docs
+
+logo: "/ohlogo.jpg"
