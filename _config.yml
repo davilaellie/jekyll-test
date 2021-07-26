@@ -3,9 +3,13 @@ url: "https://davilaellie.github.io/"
 exclude: ['README.md']
 remote_theme: pmarsceill/just-the-docs
 
+heading_anchors: true
+
 logo: "/ohlogo.jpg"
 
 permalink: pretty
+
+footer_content:
 
 search_enabled: true
 
@@ -43,7 +47,7 @@ defaults:
       type: eir
     values:
       layout: default
-      subpath: '/assets/images/'
+      
 
 
 plugins:
