@@ -42,7 +42,7 @@ collections:
     eir:
     eml:
 
-collections_dir: _docs
+collections_dir: docs
 # Default layout for each collection type
       
 compress_html:
