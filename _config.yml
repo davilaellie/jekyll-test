@@ -1,5 +1,5 @@
-baseurl: "/jekyll-test"
-url: "https://davilaellie.github.io/"
+#baseurl: "/jekyll-test"
+#url: "https://davilaellie.github.io/"
 exclude: ['README.md']
 remote_theme: pmarsceill/just-the-docs
 
@@ -46,6 +46,14 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 
 plugins:
