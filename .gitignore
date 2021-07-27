@@ -5,7 +5,7 @@
 # Have to add the "_site" folder to gitignore to not show up on github #
 _site
 
-.vs
+Local Settings
 
 .jekyll-cache
 
