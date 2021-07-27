@@ -37,12 +37,6 @@ search:
   # Supports true or false (default)
   button: false
 
-collections:
-  docs:
-    eir:
-    eml:
-
-collections_dir: _docs
 # Default layout for each collection type
       
 compress_html:

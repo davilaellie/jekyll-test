@@ -1,7 +1,8 @@
 ---
 layout: default
+title: UserDocumentation
+parent: EIR
+nav_order: 2
 ---
 
-# This is a user documentation page
-
-Can you see this?
+# This is the user documentation page
