@@ -45,10 +45,10 @@ collections:
     permalink: "/docs/:path/"
     output: true
     eir: 
-      permalink: "/docs/:path/"
+      permalink: "/docs/_eir/:path/"
       output: true
     eml:
-      permalink: "/docs/:path/"
+      permalink: "/docs/_eml/:path/"
       output: true
 
 
