@@ -42,13 +42,13 @@ search:
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   docs:
-    permalink: "/docs/:path/"
+    permalink: "/docs/:path"
     output: true
     eir: 
-      permalink: "/docs/_eir/index.md/"
+      permalink: "/docs/_eir/index.md"
       output: true
     eml:
-      permalink: "/docs/_eml/index.md/"
+      permalink: "/docs/_eml/index.md"
       output: true
 
 
