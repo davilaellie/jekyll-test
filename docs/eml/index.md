@@ -4,6 +4,7 @@ nav_order: 3
 has_children: true
 ---
 
-# This is a user documentation index page
+# Emergency Management Log (EML)
 
-Can you see this?
+### Welcome to the Emergency Management Log Documentation
+
