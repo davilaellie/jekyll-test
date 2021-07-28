@@ -36,7 +36,8 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: false
-
+  
+# Define Jekyll collections
 collections:
   # Define a collection named "docs", its documents reside in the "_docs" directory
   docs:
@@ -49,6 +50,9 @@ collections:
       output: true
 
 
+
+
+
       
 compress_html:
   clippings: all
@@ -57,6 +61,14 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 
 plugins:
