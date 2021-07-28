@@ -4,6 +4,6 @@ nav_order: 2
 has_children: true
 ---
 
-# This is a user documentation index page
+# Employee Injury Report Rewrite (EIR)
 
-Can you see this?
+

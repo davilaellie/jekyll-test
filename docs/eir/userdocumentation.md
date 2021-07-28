@@ -4,4 +4,5 @@ parent: EIR
 nav_order: 2
 ---
 
-# This is the user documentation page
+# User Documentation for Employee Injury Report Rewrite (EIR)
+
