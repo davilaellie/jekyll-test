@@ -20,7 +20,7 @@ The EIR project is owned by the Orlando Health Safety Department.
 
 ## Web Service URL
 
-- The EIR service is located at [EIR link](https://custom.capps.orhs.org/EmployeeInjury/).
+- The EIR service is located at https://custom.capps.orhs.org/EmployeeInjury/ .
 
 
 ## Development Framework
