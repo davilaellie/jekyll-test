@@ -76,4 +76,4 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_Sharp_DeviceType_Glass | Device Type: | Medication ampule, Medication vial, Other |
 | fld_Sharp_DeviceType_Glass_Other |     |    |
 | fld_Sharp_MedDevice | Were injuries caused by needles or sharp medical devices? | Yes, No, Unknown |
-| fld_Sharp_MedDevice_SafetyDesign | Did it have “safety design” with a shielded, recessed, retractable, or blunted needle or blade? | Yes, No, Unknown |
+| fld_Sharp_MedDevice_SafetyDesign | Did it have safety design with a shielded, recessed, retractable, or blunted needle or blade? | Yes, No, Unknown |
