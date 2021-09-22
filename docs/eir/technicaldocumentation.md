@@ -67,3 +67,7 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_Sharp_Purpose | For what purpose was the sharp item originally used? | Direct stick, Draw from line, Direct stick | 
 | fld_Sharp_When | When did the injury occur? | Before, During, While, Between, Other | 
 | fld_Sharp_When_Other | Other: |     |
+| fld_Sharp_Product | Select product involved in incident: | No Product, Abbott Lab, Accuch | 
+| fld_Sharp_DeviceType | What type of device caused the injury? | Needle, Instrument, Glass |
+| fld_Sharp_DeviceType_Needle | Device Type: | Disposable insulin, Disposable tube | 
+| fld_Sharp_DeviceType_Needle_Other |     |      |
