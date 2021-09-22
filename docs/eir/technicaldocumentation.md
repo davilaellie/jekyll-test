@@ -71,3 +71,7 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_Sharp_DeviceType | What type of device caused the injury? | Needle, Instrument, Glass |
 | fld_Sharp_DeviceType_Needle | Device Type: | Disposable insulin, Disposable tube | 
 | fld_Sharp_DeviceType_Needle_Other |     |      |
+| fld_Sharp_DeviceType_Instrument | Device Type: | Suture needle, Lancet, Other |
+| fld_Sharp_DeviceType_Instrument_Other |      |      | 
+| fld_Sharp_DeviceType_Glass | Device Type: | Medication ampule, Medication vial, Other |
+| fld_Sharp_DeviceType_Glass_Other |     |    |
