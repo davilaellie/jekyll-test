@@ -77,3 +77,12 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_Sharp_DeviceType_Glass_Other |     |    |
 | fld_Sharp_MedDevice | Were injuries caused by needles or sharp medical devices? | Yes, No, Unknown |
 | fld_Sharp_MedDevice_SafetyDesign | Did it have safety design with a shielded, recessed, retractable, or blunted needle or blade? | Yes, No, Unknown |
+| fld_Sharp_MedDevice_SafetyDesign_Activated | Was the protective mechanism activated? | Yes, No, Unknown | 
+| fld_Sharp_MedDevice_SafetyDesign_When | Did the injury incident happen? | Before Activation, During, After, Unknown |
+| fld_Sharp_MedDevice_SafetyDesign_Type | Safety mechanism type: | Sliding sheath, Sliding sheath, Retracting, Other |
+| fld_Sharp_HazardousDrug | Did the incident result in an exposure to a hazardous drug (e.g. chemotherapy, antineoplastic)? | Yes, No, Unknown | 
+| fld_Strain_Movement | Type of Movement/Handling: | Fall, Floor, Retracting | 
+| fld_Strain_Activity | Activity/Purpose: | Admission, Bathing, Extended | 
+| fld_Strain_Equipment | Was Assistive Equipment or Device Used? | Yes, No |
+| fld_Other_Description | Description of Cause: |      | 
+| fld_Prevented | In your opinion, how could this incident have been prevented? |     |
