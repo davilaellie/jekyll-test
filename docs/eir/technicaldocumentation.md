@@ -39,4 +39,17 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_TeamMember | Team Member: |     |
 | fld_TeamMemberID | Team Member ID: |       |
 | fld_TeamMemberPhone | Phone: |       |
+| fld_ReportedToWork_Date | Reported to Work: | Calendar Entry |
+| fld_ReportedToWork_Time | Reported to Work: | Clock Entry |
+| fld_Occurred_Date | Injury Occured: | Calendar Entry |
+| fld_Occurred_Time | Injury Occured: | Clock Entry |
+| fld_NotifiedSupervisor_Date | Supervisor Notified: | Calendar Entry | 
+| fld_NotifiedSupervisor_Time | Supervisor Notified: | Clock Entry |
+| fld_NotifiedSupervisor | Supervisor Notified: | Name | 
+| fld_MedAttention | If you require medical attention, where will you receive care? | 1 = Occupational Health, 2 = Emerg Med |
+| fld_PtExposure | Is the injury incident related to a patient exposure? | Yes, No |
+| fld_PtExposure_MRN | Involved Patient's MRN: |     |
+| fld_Witness_List | Witness List: |  |
+| fld_Facility | Where the Incident Occured: | ORMC, APH, 110 Building |
+| fld_Site | Site of incident: (Specify Floor, Unit, Room Number, Parking Lot, Intersection, etc.) |      |
 
