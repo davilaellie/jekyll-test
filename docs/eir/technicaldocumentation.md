@@ -63,3 +63,7 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_Sharp_Location_Detail |    |      |
 | fld_Sharp_OriginalUser | Was the injured worker the original user of the sharp item? | Yes, No |
 | fld_Sharp_Contamination | Sharp item was: | Contaminated WITH, Contaminated No, Uncontaminated, Unknown |
+| fld_Sharp_Gloves | Gloves were: | Contaminated, Not Contaminated, Unknown if Contaminated, Not Worn |
+| fld_Sharp_Purpose | For what purpose was the sharp item originally used? | Direct stick, Draw from line, Direct stick | 
+| fld_Sharp_When | When did the injury occur? | Before, During, While, Between, Other | 
+| fld_Sharp_When_Other | Other: |     |
