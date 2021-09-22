@@ -59,4 +59,7 @@ The EIR project is owned by the Orlando Health Safety Department.
 | fld_Nature | Nature of Injury: | Amputation, Body Fluid Exposure, Burn |
 | fld_Sharp_BbPathogen | Injury included exposure to bloodborne pathogen? | Yes, No |
 | fld_Cause | Cause of Injury: | Caught in, under, or between machine or machinery |
-
+| fld_Sharp_Location | Where did the injury occur? | Patient Room, Intensive Critical Care Unit | 
+| fld_Sharp_Location_Detail |    |      |
+| fld_Sharp_OriginalUser | Was the injured worker the original user of the sharp item? | Yes, No |
+| fld_Sharp_Contamination | Sharp item was: | Contaminated WITH, Contaminated No, Uncontaminated, Unknown |
