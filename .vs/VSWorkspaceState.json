@@ -1,15 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.git",
-    "\\.jekyll-cache",
-    "\\.jekyll-cache\\Jekyll",
-    "\\.jekyll-cache\\Jekyll\\Cache",
-    "\\.jekyll-cache\\Jekyll\\Cache\\Jekyll--Cache",
     "\\docs",
-    "\\docs\\eml",
-    "\\Local settings (.vs)"
+    "\\docs\\eml"
   ],
-  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
