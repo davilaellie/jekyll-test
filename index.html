@@ -19,10 +19,12 @@ new: false
     
     <form>
         
-        <label for="foldername">Choose a project name:</label>
-        {% for collection in site.collections %}
-        <input type="radio" id="{{ collection }}" value="{{collection }}" />
-        {% endfor %}
+        <div>
+            {% for collection in site.docs %}
+            <input type="radio" id="{{ collection }}" value="{{collection }}" />
+            {% endfor %}
+        </div>
+        
 
         <input type="radio" id="new" value="Create a new project folder" />
         {% if page.new == true %}
