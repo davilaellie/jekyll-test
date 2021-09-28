@@ -20,7 +20,7 @@ new: false
     <form>
         
         <label for="foldername">Choose a project name:</label>
-        {% for project in site.docs %}
+        {% for project in site.collection %}
         <input type="radio" id="{% project %}" value="{% project %}" />
         {% endfor %}
 
