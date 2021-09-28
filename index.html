@@ -20,8 +20,8 @@ new: false
     <form>
         
         <label for="foldername">Choose a project name:</label>
-        {% for collections in site.collections %}
-        <input type="radio" id="{% collections %}" value="{% collections %}" />
+        {% for collection in site.collections %}
+        <input type="radio" id="{% collection.title %}" value="{% collection.title %}" />
         {% endfor %}
 
         <input type="radio" id="new" value="Create a new project folder" />
