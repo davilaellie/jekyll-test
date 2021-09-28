@@ -71,7 +71,6 @@ kramdown:
       line_numbers: false
 
 files: true
-uploads: true
 
 plugins:
   - jekyll-seo-tag
