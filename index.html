@@ -20,14 +20,14 @@ new: false
     <form>
         
         <label for="foldername">Choose a project name:</label>
-        <!--{% for project in site.collection %}
+        {% for collections in site.collections %}
         <input type="radio" id="{% project %}" value="{% project %}" />
         {% endfor %}
 
-        <input type="radio" id="new" value="Create a new project folder" />-->
-        <!--{% if page.new == true %}
+        <input type="radio" id="new" value="Create a new project folder" />
+        {% if page.new == true %}
             <input type="text" id="newprojectname" value="New project folder name: " />
-        {% endif %}-->
+        {% endif %}
 
 
         <label for="fileupload">Upload a docx or pdf file here:</label>
