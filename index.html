@@ -21,7 +21,7 @@ new: false
         
         <label for="foldername">Choose a project name:</label>
         {% for collection in site.collections %}
-        <input type="radio" id="{{ collection.title }}" value="{{collection.title }}" />
+        <input type="radio" id="{{ collection }}" value="{{collection }}" />
         {% endfor %}
 
         <input type="radio" id="new" value="Create a new project folder" />
